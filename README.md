@@ -1,5 +1,6 @@
 # PPM-Image-Editor
 
+![Image](https://github.com/Michael-Elrod-dev/PPM-Image-Editor/blob/main/PpmEdit.png)
 This project consists of a program that reads multiple PPM (Portable Pixmap) image files and removes noise from the images. The noise removal is done using either an average or median filtering method.
 
 ## Usage
