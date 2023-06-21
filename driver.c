@@ -1,8 +1,3 @@
-/*************************
-* Michael Elrod
-* CPSC 2310 Section 005, Sp23
-* mselrod@clemson.edu
-*************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

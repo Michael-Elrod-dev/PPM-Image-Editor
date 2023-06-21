@@ -1,8 +1,3 @@
-/*************************
-* Michael Elrod
-* CPSC 2310 Section 005, Sp23
-* mselrod@clemson.edu
-*************************/
 #ifndef PPM_UTILS
 #define PPM_UTILS
 #define TEN 10
