@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/Michael-Elrod-dev/PPM-Image-Editor/blob/main/PpmEdit.png)
 
-This project consists of a program that reads multiple PPM (Portable Pixmap) image files and removes noise from the images. The noise removal is done using either an average or median filtering method.
+This project consists of a program that reads multiple PPM (Portable Pixmap) image files and either removes noise from the images or edits out obstuctions. The noise removal is done using an average filtering method while the obstruction removal uses a median.
 
 ## Usage
 Compile the program using the GCC compiler:
